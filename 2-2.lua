@@ -8,8 +8,8 @@ wait(1)
 --====================================================================================
 -- CONFIGURAÇÕES 
 --====================================================================================
-local TARGET_CFRAME = CFrame.new(20.543066024780273, 2.979029788208008, 0.21853560209274292)
-local UNIT_PLACEMENT_POSITION = Vector3.new(20.543066024780273, 2.979029788208008, 0.21853560209274292)
+local TARGET_CFRAME = CFrame.new(25.065623474121094, 3.1423373222351074, -2.731126070022583)
+local UNIT_PLACEMENT_POSITION = Vector3.new(25.065623474121094, 3.1423373222351074, -2.731126070022583)
 local UNIT_PLACEMENT_SLOT_NUMBER = 4; local UNIT_INSTANCE_ID_IN_SLOT = "u017003s1"; local UNIT_BASE_ID = "u017003"
 local UNIT_TO_FIND_NAME = "U0Model"
 local UNITS_FOLDER_PATH_IN_WORKSPACE = "Units.UFolder"
